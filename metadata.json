@@ -1,0 +1,7 @@
+{
+  "name": "Le Pitchoun",
+  "description": "L'artisanat glacé au bord du lac",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Le Pitchoun",
+  "short_name": "Pitchoun",
+  "start_url": "/home",
+  "display": "standalone",
+  "background_color": "#FDFBF7",
+  "theme_color": "#E5989B",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://lh3.googleusercontent.com/aida-public/AB6AXuAsxOSVUPxRoZeylwN2yIxIvyDcHYwODY2FIbvShEtzABecvD1PjeheHCZz_IxvRmmqZ20xkhLm3WrSFY7cSt0LNFHP-J5D7nvfBtj4oGaN4iWampYBxRAmgaGd5esXv9-QOcs-ta2RG10D7bzvC1wsYQrPtCUDcB29fXslb7i1viUSfAxtvl5GshXyhGKy1jn3FW5KlMpcG0L-X4VlRlU6DkwSI0jgUJfY05Dy3j4SQmW3HzHcbq3nx_cVOPBDReezmlpuwMfr2g68",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
